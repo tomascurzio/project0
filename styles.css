@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 10px;
+}
+
+body {
+    background-color: #BFBFBF;
+    color: #E5E5E5
+}
+
+h1 {
+  background-color: #03fc77;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  margin: 20px;
+  padding: 20px;
+}
+
+#tomi {
+  background-color: #4285e3;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  color: #E5E5E5
+}
+
+ol, li {
+  background-color: #afacbf;
+  text-align: center;
+  margin: 20px;
+  padding: 5px;
+  color: #E5E5E5
+}
+
+#tomi1 {
+  background-color: #4285e3;
+  text-align: justify;
+  margin: 20px;
+  padding: 20px;
+}
